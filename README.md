@@ -1,4 +1,6 @@
-### 👋👋 ¡¡Hello Word!! 👋👋 I'am Agustin Rios.
+### 👋👋 ¡¡Hello Word!! 👋👋  I'am Agustin Rios.
+
+Programador - Diseñador Web
 
 <!--
 **agustinrios/agustinrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
