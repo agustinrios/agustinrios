@@ -12,7 +12,6 @@ Programador - Diseñador Web
 ![image](https://user-images.githubusercontent.com/52763083/112248126-2f055a00-8c34-11eb-8b09-fa74029d80c9.png)
 ![image](https://user-images.githubusercontent.com/52763083/112248134-33317780-8c34-11eb-8583-c94cc46e51a2.png)
 ![image](https://user-images.githubusercontent.com/52763083/112248140-36c4fe80-8c34-11eb-8783-13a7c97fcad4.png)
-![image](https://user-images.githubusercontent.com/52763083/112248185-4cd2bf00-8c34-11eb-9d1f-422f9d1200ae.png)
 ![image](https://user-images.githubusercontent.com/52763083/112248194-51977300-8c34-11eb-9b6f-9bfefcec049a.png)
 
 
