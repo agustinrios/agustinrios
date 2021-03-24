@@ -1,8 +1,8 @@
-### 👋👋 ¡¡Hello Word!! 👋👋  I'am Agustin Rios.
+## 👋👋 ¡¡Hello Word!! 👋👋  I'am Agustin Rios.
+*
+### Programador - Diseñador Web
 
-Programador - Diseñador Web
-
-![image](https://user-images.githubusercontent.com/52763083/112247981-f1a0cc80-8c33-11eb-88b4-bb0ae9887f5d.png)
+![image](https://user-images.githubusercontent.com/52763083/112247981-f1a0cc80-8c33-11eb-88b4-bb0ae9887f5d.png){width='100px' height='100px'}
 ![image](https://user-images.githubusercontent.com/52763083/112247998-f82f4400-8c33-11eb-86c8-5ec4aacec7ac.png)
 ![image](https://user-images.githubusercontent.com/52763083/112248028-04b39c80-8c34-11eb-9a2b-ffe639e1d5d2.png)
 ![image](https://user-images.githubusercontent.com/52763083/112248041-09785080-8c34-11eb-8432-f6a0df372e8d.png)
