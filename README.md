@@ -1,4 +1,4 @@
-## 👋👋 ¡¡Hello Word!! 👋👋  I'am Agustin Rios.
+## 👋👋 ¡¡Hola Mundo!! 👋👋  Soy Agustin Rios.
 * <big> Programador - Diseñador Web </big>
 
 <!--
